@@ -1,0 +1,4 @@
+How to install requirement packages
+
+
+pip install -r RegTimer_requirements.txt
